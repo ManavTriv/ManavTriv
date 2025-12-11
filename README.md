@@ -1,7 +1,7 @@
 ### Hi there, I'm Manav 👋
 
-🧑‍💻 Graduate Engineer at @ ANZ<br/>
-🧑‍🎓 Studied a Bachelor of Software Engineering (Honours) and Bachelor of Economics<br/> at The University of Queensland<br/>
+🧑‍💻 Graduate Engineer at ANZ<br/>
+🧑‍🎓 Studied a Bachelor of Software Engineering (Honours) and Bachelor of Economics at The University of Queensland<br/>
 
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
