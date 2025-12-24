@@ -1,5 +1,6 @@
-### Hi there, I'm Manav 👋
+### Hey, I'm Manav 👋
 
+☁️ https://www.manavtrivedi.me/<br/>
 🧑‍💻 Graduate Engineer at ANZ<br/>
 🧑‍🎓 Studied a Bachelor of Software Engineering (Honours) and Bachelor of Economics at The University of Queensland<br/>
 
@@ -21,9 +22,6 @@
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23000000.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Codefresh](https://img.shields.io/badge/Codefresh-%23000D48.svg?style=for-the-badge&logo=codefresh&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 --- 
